@@ -1,0 +1,26 @@
+/* line 2, ../sass/partials/_base.scss */
+ul.menu {
+  color: #fff;
+  text-align: none;
+}
+
+/* line 7, ../sass/partials/_base.scss */
+ul li.leaf {
+  list-style-image: none;
+  list-style-type: none;
+}
+
+/* line 12, ../sass/partials/_base.scss */
+ul.menu li {
+  margin: 0px;
+}
+
+/* line 16, ../sass/partials/_base.scss */
+li.expanded, li.collapsed, li.leaf {
+  padding: 0px;
+}
+
+/* line 20, ../sass/partials/_base.scss */
+li a.active {
+  color: #fff;
+}
